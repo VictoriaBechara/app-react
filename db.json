@@ -1,21 +1,33 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Designer"
-        },
-        {
-            "id": 4,
-            "name": "Desenvolvimento"
-        }
-    ]
+  "projects": [
+    {
+      "name": "testeeee",
+      "budget": "1000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Designer"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
